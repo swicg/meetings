@@ -17,6 +17,7 @@ Call Notes: (will be archived over at https://github.com/swicg/meetings)
 - Evan Prodromou
 - Johannes Ernst
 - Bob Wyman
+- Angelo Gladding
 
 ### Agenda
 
