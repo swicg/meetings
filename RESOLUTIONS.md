@@ -1,6 +1,14 @@
 | Date | Link | Contents |
 |---|---|---|
-|2023-09-13|https://www.w3.org/2023/09/13-socialweb-test-suite-minutes.html#ResolutionSummary|create a Testing Task Force within the SocialCG with by_caballero as Task Force Lead|
+|2024-08-02|https://github.com/swicg/meetings/tree/main/2024-08-02#process-question--needs-fep-handling|
+|2024-06-07|https://github.com/swicg/meetings/tree/main/2024-05-07#tf-reports|Publish the [ActivityPub HTTP Signatures profile](https://swicg.github.io/activitypub-http-signature/) as a CG Final report.|
+|2024-06-07|https://github.com/swicg/meetings/tree/main/2024-05-07#tf-reports|The SocialCG create a next-generation profile of ActivityPub and HTTP Message Signatures including backwards-compatibility mode. call for volunteers to edit and write the report ongoing.|
+|2024-06-07|https://github.com/swicg/meetings/tree/main/2024-05-07#tf-reports|Publish the [ActivityPub WebFinger profile](https://swicg.github.io/activitypub-webfinger/) as a CG Final report. Wind down WebFinger TF (until further use cases etc)|
+|2024-03-01|https://www.w3.org/2024/03/01-social-minutes.html#r01|publish version 1.11 of Activity Streams 2.0 context document based on current state of the context document.|
+|2023-12-15|https://github.com/swicg/meetings/tree/main/2023-12-15#topic-extensions-policy|The SocialCG intends to publish the [xtension policy at https://swicg.github.io/extensions-policy/ and solicits final round of feedback from the Activity Streams 2.0 community.|
+|2023-12-15|https://github.com/swicg/meetings/tree/main/2023-12-15#topic-issue-processing|AP|Errata PRs 440, 441, 545, 482|
+|2023-11-17|https://github.com/swicg/meetings/tree/main/2023-11-17#notes|approve errata for AP issues 297, 376, 395; incorporate consensually-approved errata to date into Editor's Draft|
+|2023-09-13|https://www.w3.org/2023/09/13-socialweb-test-suite-minutes.html#ResolutionSummary|create a Testing Task Force within the SocialCG with bumblefudge as Task Force Lead|
 |^|https://www.w3.org/2023/09/13-social-minutes.html|UNOFFICIAL: consider https://w3c.github.io/activitypub/data-portability-report.html as an input document for a Portability Task Force; convener of said still sought|
 |2023-09-12|https://www.w3.org/2023/09/12-social-minutes.html#ResolutionSummary|use https://w3c.github.io/activitystreams/draft-extensions-policy.html as a draft of a report for an extensions policy for SocialCG|
 |2021-04-23|https://www.w3.org/2021/04/23-social-minutes.html#t03|This is currently the primary issue tracker for SWICG: https://github.com/swicg/general/issues/|
