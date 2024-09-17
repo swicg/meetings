@@ -10,7 +10,7 @@
 * Steve Bates
 * Johannes
 * Angelo Gladding
-* bumblefudge Caballero
+* bumblefudge
 
 Scribe: Lisa
 
