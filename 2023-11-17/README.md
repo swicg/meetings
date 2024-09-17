@@ -1,6 +1,7 @@
 # SocialCG Special Topic Call: AP Errata - Fri Nov 17, 2023
 
 ## Present
+
 * Evan P
 * Dmitri Z
 * Nightpool
@@ -8,6 +9,7 @@
 * Bob Wyman
 
 ## Agenda
+
 1. IP Protection Note Reminder:
    a. Anyone can participate in these calls. However, all substantive contributors to any CG Work Items must be members of the CG with full IPR agreements signed. https://www.w3.org/community/socialcg/join
    b. To contribute to Work Items: ensure you have a W3 account: https://www.w3.org/accounts/request, and sign the W3C Community Contributor License Agreement (CLA): https://www.w3.org/community/about/agreements/cla/
@@ -24,13 +26,13 @@ Issue has a PR. "Federated servers MUST perform delivery on all Activities poste
 
 Q: Should Blocks override the MUST above (that things must be delivered)?
 
-PROPOSAL: 
+PROPOSAL:
 > add Erratum for the ActivityPub spec saying, "
-  Section 6.11 should read, Federated servers SHOULD perform delivery on all 
-  Activities posted to the outbox according to outbox delivery. Servers MAY filter 
+  Section 6.11 should read, Federated servers SHOULD perform delivery on all
+  Activities posted to the outbox according to outbox delivery. Servers MAY filter
   activities for privacy, abuse mitigation, or other reasons."
 
-Nightpool: There's another section (7.1.1) with similar language, we should 
+Nightpool: There's another section (7.1.1) with similar language, we should
 probably have it match.
 
 PROPOSAL (Amended): add Erratum for the ActivityPub spec saying,

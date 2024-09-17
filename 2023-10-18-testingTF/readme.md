@@ -66,4 +66,4 @@ None taken
   - bengo: we COULD start connecting my AP work to helge's and stevebate's drivers (by behavior)
   - Angelo: web-based "are we _ yet?" site worth making? is that a goal?
     - bengo (in chat)
-    - juan: I would say it's worth doing for the easy tests but realistically couldn't be complete/exhaustive for conformance OR interop purposes
+    - bumblefudge: I would say it's worth doing for the easy tests but realistically couldn't be complete/exhaustive for conformance OR interop purposes

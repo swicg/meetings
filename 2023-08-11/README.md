@@ -2,7 +2,8 @@
 
 Call Notes: (will be archived over at https://github.com/swicg/meetings)
 
-### Participants
+## Participants
+
 - Dmitri Zagidulin
 - James Gallagher (jamesg.blog)
 - Helge
@@ -19,7 +20,7 @@ Call Notes: (will be archived over at https://github.com/swicg/meetings)
 - Bob Wyman
 - Angelo Gladding
 
-### Agenda
+## Agenda
 
 Welcome to the SocialWeb Community Group!
 
@@ -36,7 +37,7 @@ https://www.w3.org/community/about/agreements/cla/
    - (5-10 min) Presentation/demo by Darius Kazemi on activitypub-tool
    - (remaining time) Discussion and next steps
 
-### Notes
+## Notes
 
 Evan: Question in terms of scope - when we talk of specs, we have AS2 spec, and AP (which is the protocol & client API). Is the scope primarily about protocol, not data model?
 
@@ -122,12 +123,12 @@ Johannes: I love what I'm seeing here - and there's almost no overlap, which is 
 
 Ryan: Thanks, congrats for everyone who presented here, thank you to the organizers - timely conversations! Two ideas I've seen are very powerful from my development -- first is collecting the behaviors and data independent of code, like Helge and Bengo just talked about! That's hard enough, before even making specific drivers or language implementations. Collecting behaviors, variants, etc. Very helpful.
 
-Darius: yeah! honestly this gist of random objects I copy/pasted in the wild has been as useful to me as anything else 
+Darius: yeah! honestly this gist of random objects I copy/pasted in the wild has been as useful to me as anything else
 https://gist.github.com/dariusk/e0aa9a0b4229c47dec2bc57cc6bb0994
 
 Ryan: The other thing I've seen that's really powerful -- if we can lower the barrier to running a test suite (for example, against a live server on the internet)
 
-Evan: Having a test suite for our social API was one of SocialWeb WG was one of the charter requirements. The test suite we have, developed by Christine, is very manual. Do we have a requirement / responsibility, as SWICG today in 2023, to have that suite available, or some other test suite available? 
+Evan: Having a test suite for our social API was one of SocialWeb WG was one of the charter requirements. The test suite we have, developed by Christine, is very manual. Do we have a requirement / responsibility, as SWICG today in 2023, to have that suite available, or some other test suite available?
 
 Dmitri: Definitely a great question, let's continue this discussion!
 
@@ -143,8 +144,8 @@ Tim Chambers: https://indieweb.social/@activitypubtestsuite@venera.social
 
 Evan and Dmitri: Also, [TPAC 2023](https://www.w3.org/2023/09/TPAC/) is coming up, a hybrid event (online and in Seville, Spain), let's continue the conversation there too!
 
-Bob Wyman (in chat): How could our SocialWeb protocols be used (or extended) to make this kind of distributed development and testing easier for everyone? 
+Bob Wyman (in chat): How could our SocialWeb protocols be used (or extended) to make this kind of distributed development and testing easier for everyone?
 
-bengo (to Evan, re whether the WG charter applies to SWICG): I think we mostly agree. I think we best steward them by encouraging parallel development of many testing tools, learning from their development, and accepting contributions into the CG, not by developing it in a top-down way in-group, and I don't excpect everyone to agree 
+bengo (to Evan, re whether the WG charter applies to SWICG): I think we mostly agree. I think we best steward them by encouraging parallel development of many testing tools, learning from their development, and accepting contributions into the CG, not by developing it in a top-down way in-group, and I don't excpect everyone to agree
 
 Dmitri: Thanks everyone! Let's continue the conversation on our lists / forums!

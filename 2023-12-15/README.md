@@ -1,6 +1,7 @@
 # SocialCG Meeting 2023-12-15 Minutes
 
 ## Present
+
 * Dmitri Zagidulin
 * PLH
 * Evan P.
@@ -9,11 +10,12 @@
 * Steve Bates
 * Johannes
 * Angelo Gladding
-* Juan Caballero
+* bumblefudge Caballero
 
 Scribe: Lisa
 
 ## Agenda
+
 1. IP Protection Note Reminder:
   a. Anyone can participate in these calls. However, all substantive contributors to any CG Work Items must be members of the CG with full IPR agreements signed. https://www.w3.org/community/socialcg/join
   b. To contribute to Work Items: ensure you have a W3 account: https://www.w3.org/accounts/request, and sign the W3C Community Contributor License Agreement (CLA): https://www.w3.org/community/about/agreements/cla/
@@ -83,7 +85,7 @@ https://w3c.github.io/activitystreams/draft-extensions-policy.html
 
 Dmitri: Consensus Call.  Resolved.
 
-### Topic: Issue processing.
+### Topic: Issue processing
 
 Evan: Last time we did ActivityPub issues, maybe we can do the outstanding issues for Activity Streams this time.
 Looking for PRs specifically focused on errata.
@@ -132,6 +134,7 @@ Angelo: They've been talking to individuals but not coming to the community.
 Dmitri: Yes and there was history contributing to that.
 
 Johannes: For folks who don't know, their roadmap (as repeated by Mosseri in a video this week):
+
 * First is ability to follow a small number of Threads accounts of Meta employees from the Fediverse, without ability to interact with them (info does not flow back to Threads). This is what we are seeing this week.
 * Then open this up to more accounts
 * Then propagate likes, comments from the Fediverse back into Threads

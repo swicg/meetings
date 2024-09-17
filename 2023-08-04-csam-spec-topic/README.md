@@ -2,7 +2,7 @@
 
 CPEC Code of Conduct: https://www.w3.org/Consortium/cepc/
 
-### Participants
+## Participants
 
 * Kainoa Kanter
 * James Gallagher
@@ -20,36 +20,37 @@ CPEC Code of Conduct: https://www.w3.org/Consortium/cepc/
 * Bengo
 * Todd
 
-### Reading and Resource List
+## Reading and Resource List
 
-#### General Information
+### General Information
+
 * Recent Stanford report: https://cyber.fsi.stanford.edu/io/news/addressing-child-exploitation-federated-social-media ([Report PDF](https://stacks.stanford.edu/file/druid:vb515nd6874/20230724-fediverse-csam-report.pdf))
 * [Moderating the Fediverse: Content Moderation on Distributed Social Media](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4213674), Alan Z. Rozenshtein, 3 Journal of Free Speech Law 217 (2023)
 * [User Generated Content and the Fediverse: A Legal Primer](https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer)
 * [Notes on operating fediverse services (Mastodon, Pleroma etc) from an English law point of view](https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view)
 * [Scaling a public Mastodon instance: Legal, compliance, privacy and more](https://bottomlinelawgroup.com/2023/01/23/mastodon-instance-legal-compliance-privacy/?doing_wp_cron=1691167165.0044350624084472656250)
 
-#### European Union
+### European Union
 
 * [Digital Service Act reporting requirements](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package)
 * Evidence-based recommendations on how to improve child safety (at least in the EU) are available from EDRi: https://edri.org/wp-content/uploads/2022/10/EDRi-Position-Paper-CSAR.pdf (posted by [@Federico on the SocialHub thread](https://socialhub.activitypub.rocks/t/about-child-safety-on-federated-social-media/3447/8))
 
-#### USA
+### USA
 
 * Q from Bob Wyman: "Are operators of ActivityPub instances considered to be "providers of electronic communication services or remote computing services" who, if in the USA, have a legal obligation to make reports to the [NCMEC](https://www.missingkids.org/)?"
   * Answer from Darius Kazemi (with the biggest "I AM NOT A LAWYER" disclaimer ever): "Yes. Critically, the legal obligation comes once an operator is made aware of the presence of CSAM. An operator is not legally obligated to actively scan and search for CSAM material, and is not on the hook for material hosted that they do not know about, but rather they must report to [NCMEC](https://www.missingkids.org/) when they are made aware of the CSAM material. They must then retain a copy of material for 90 days (I believe to assist law enforcement if needed) and then must delete the material after 90 days."
 * [federal statute](https://www.law.cornell.edu/uscode/text/18/2258A)
 * [NCMEC](https://en.wikipedia.org/wiki/National_Center_for_Missing_%26_Exploited_Children)
 
-
-#### Other Jurisdictions
+### Other Jurisdictions
 
 * Australia: https://icmec.org.au/
 * New Zealand: https://www.dia.govt.nz/Digital-Safety-Report-Online-Child-Exploitation-material
 * Canada: https://protectchildren.ca/en/
 * United Kingdom: https://report.iwf.org.uk/org/
 
-#### Tools and APIs
+### Tools and APIs
+
 * The community/moderation non-profit [IFTAS](https://about.iftas.org/) has been researching where and how some of offerings below may be incorporated into broader service offerings for instances/communities; their [matrix](https://matrix.to/#/#space:matrix.iftas.org) server is a good place to discuss, whether technically or not
 * [PhotoDNA](https://www.microsoft.com/en-us/photodna)
 * [Overview of Google's toolkit](https://protectingchildren.google/tools-for-partners/)
@@ -63,11 +64,11 @@ CPEC Code of Conduct: https://www.w3.org/Consortium/cepc/
   * [Alex shared this journal article introducing the problem space and families of solutions](https://tsjournal.org/index.php/jots/article/view/24/14)
   * [ISCC - OS codebase that includes both content hashing and perceptual hashing](https://iscc.codes/)
 * [Draft API dictionary](https://transparency.dsa.ec.europa.eu/page/api-documentation) and [API prototype](https://github.com/digital-services-act/transparency-database) for incoming [Digital Service Act reporting requirements](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package)
-  - [A commentary on it by Daphne Keller](https://cyberlaw.stanford.edu/blog/2023/07/rushing-launch-eus-platform-database-experiment)
+  * [A commentary on it by Daphne Keller](https://cyberlaw.stanford.edu/blog/2023/07/rushing-launch-eus-platform-database-experiment)
 * Cloudflare's CSAM scanning tool: https://blog.cloudflare.com/the-csam-scanning-tool/
   * Tutorial on setting up the Cloudflare R2 tool with Firefish (formerly known as CalcKey): https://socialweb.coop/blog/firefish-cloudflare-quickfix-r2-tutorial/
 
-### Agenda
+## Agenda
 
 1. Code of Ethics & Professional Conduct Reminder:  https://www.w3.org/Consortium/cepc/
 2. W3C Community Group Process and Governance: https://www.w3.org/community/about/process/
@@ -82,9 +83,9 @@ CPEC Code of Conduct: https://www.w3.org/Consortium/cepc/
 
 * Bob: I am concerned that the report may be a bit misleading since it didn't provide jurisdiction-specific incidence rates. (i.e. In Japan, much of what others say is CSAM is actually legal and thus much more common than in EU and US.)
 
-### Notes
+## Notes
 
-Juan: A few days ago, there was a post on SocialHub with the Standford CSAM report. In parallel to that, there's been a lot of interest in the Fediverse in moderation mechanics. When I stumbled into it, started asking questions and chasing threads, I realized that IFTAS have been doing a lot of research on this at various levels (Fediverse and beyond). There's a lot of related topics regarding moderation toolings that might be out of scope for this particular call. But CSAM may be a more narrow topic to start.
+bumblefudge: A few days ago, there was a post on SocialHub with the Standford CSAM report. In parallel to that, there's been a lot of interest in the Fediverse in moderation mechanics. When I stumbled into it, started asking questions and chasing threads, I realized that IFTAS have been doing a lot of research on this at various levels (Fediverse and beyond). There's a lot of related topics regarding moderation toolings that might be out of scope for this particular call. But CSAM may be a more narrow topic to start.
 
 EvanP: Stanford Internet Observatory is a research group that does security work at Stanford. They did a statistical analysis of output from the top 25 Mastodon servers (they were using public feeds from those servers), and they used industry standard APIs for doing checks for CSAM (PhotoDNA and Google Safe Search), doing scans for hashtags often used in child abuse circles for CSAM. They were able to identify 10s of thousands of CSAM items, which is what initiated the report, and resulted in a feature article about it. This kicked off a lot of discussion in the past several weeks.
 
