@@ -183,6 +183,8 @@ Tantek: I agree there may be additional information, but given the information t
 
 Em: When discovering and resolving the Actor behind that URL, are we saying that one uses WebFinger (and `.well-known`) to find out what that is, rather than parsing the URL?  We'd say that whatever the `href` value in the `link` tag is, you follow that, and how do you determine it's an Actor?
 
+### New Task Force to Clarify Discovery Mechanics
+
 Evan: Proposal 1: We prefer the use of `link rel=author` to identify authors of Web resources;  Proposal 2: task force on discovery.
   
 Tantek: To build on Evan's first proposal, I'd also add use of the link with type `application/activity+json`, to indicate that the resource "supports" ActivityPub, left vague in order to support Em's suggestion.

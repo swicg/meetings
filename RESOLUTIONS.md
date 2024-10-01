@@ -8,6 +8,10 @@
 |^|Submit a pull request for a SocialCG breakout session|
 |^|SocialCG starts up a Website Taskforce to update activitypub.rocks and as2.rocks (only). Bandwidth permitting. And set up a process for future updates.|
 |[2024-08-02](https://github.com/swicg/meetings/tree/main/2024-08-02#process-question--needs-fep-handling)|streamline the use of `FEP needed` tag on AP+AS github issues using [GH](https://github.com/w3c/activitypub/commit/813db27250521d89449b876658a614b7cde349ba) [automations](https://github.com/w3c/activitystreams/commit/6880c92381cd5e3518651a1135ed819ef4828368)|
+|[^](./2024-08-02/README.md#issue-triage---issues-requiring-community-input)|Various Errata Approvals|
+|[^](./2024-08-02/README.md#new-task-force-to-clarify-discovery-mechanics)|We [, the CG,] prefer the use of `rel=author` for identifying authors of web resources.|
+|[^](./2024-08-02/README.md#new-task-force-to-clarify-discovery-mechanics)|`rel=author` + `type=application/activity+json` means that the `href` supports ActivityPub discovery and following (modulo open question about which specific discovery mechanisms)|
+|[^](./2024-08-02/README.md#new-task-force-to-clarify-discovery-mechanics)|Open a task force to focus on a discovery of ActivityPub actors and objects from HTML.|
 |[2024-06-07](https://github.com/swicg/meetings/tree/main/2024-05-07#tf-reports)|Publish the [ActivityPub HTTP Signatures profile](https://swicg.github.io/activitypub-http-signature/) as a CG Final report.|
 |[2024-06-07](https://github.com/swicg/meetings/tree/main/2024-05-07#tf-reports)|The SocialCG create a next-generation profile of ActivityPub and HTTP Message Signatures including backwards-compatibility mode. call for volunteers to edit and write the report ongoing.|
 |[2024-06-07](https://github.com/swicg/meetings/tree/main/2024-05-07#tf-reports)|Publish the [ActivityPub WebFinger profile](https://swicg.github.io/activitypub-webfinger/) as a CG Final report. Wind down WebFinger TF (until further use cases etc)|
