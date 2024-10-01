@@ -7,6 +7,7 @@
 |^|End-to-End-Encryption (E2EE) TPAC session.|
 |^|Submit a pull request for a SocialCG breakout session|
 |^|SocialCG starts up a Website Taskforce to update activitypub.rocks and as2.rocks (only). Bandwidth permitting. And set up a process for future updates.|
+|^|Establish a trust and safety task force, with a report as only deliverable for now, with more TBD.|
 |[2024-08-02](https://github.com/swicg/meetings/tree/main/2024-08-02#process-question--needs-fep-handling)|streamline the use of `FEP needed` tag on AP+AS github issues using [GH](https://github.com/w3c/activitypub/commit/813db27250521d89449b876658a614b7cde349ba) [automations](https://github.com/w3c/activitystreams/commit/6880c92381cd5e3518651a1135ed819ef4828368)|
 |[2024-06-07](https://github.com/swicg/meetings/tree/main/2024-05-07#tf-reports)|Publish the [ActivityPub HTTP Signatures profile](https://swicg.github.io/activitypub-http-signature/) as a CG Final report.|
 |[2024-06-07](https://github.com/swicg/meetings/tree/main/2024-05-07#tf-reports)|The SocialCG create a next-generation profile of ActivityPub and HTTP Message Signatures including backwards-compatibility mode. call for volunteers to edit and write the report ongoing.|
