@@ -2,6 +2,8 @@
 
 | Date + Link | Contents |
 |---|---|
+|[2024-10-04](./2024-10-04/README.md)|accept [PR #1](https://github.com/swicg/potential-charters/pull/1) as the basis for collaboration on building a CG charter|
+|^|Accept [PR#4](https://github.com/swicg/potential-charters/pull/4) to begin the collaboration on a staging process for CG/WG workflows (conditional on Tantek and Emelia's change requests).|
 |[2024-09-06](./2024-09-06/README.md)|host Social Web Interoperability & Data Portability TPAC session|
 |^|End-to-End-Encryption (E2EE) TPAC session.|
 |^|End-to-End-Encryption (E2EE) TPAC session.|
