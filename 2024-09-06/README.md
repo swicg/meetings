@@ -209,7 +209,7 @@ Emelia: would it be worth combining the two?
 
 Tantek, Johannes: TF can decide
 
-Bumblefudge: There are also many community sites that popped up over the years to patch this lack of a "landing page" — fediverse.party, joinfediverse.wiki, joinfediverse.org, fediverse.observer, and jointhefediverse.net. All have "but what is the fediverse?" explainers and recommendations for finding a server. I opened some issues and PRs on fediverse.party to try consolidating a bit and pointing outwards to the other sites where possible, but it might be worth checking in with the maintainers of all those, at least _after_ an ap.rocks revamp.
+Bumblefudge: There are also many community sites that popped up over the years to patch this lack of a "landing page" — fediverse.party, joinfediverse.wiki, joinfediverse.org, fediverse.observer, and jointhefediverse.net. All have "but what is the fediverse?" explainers and recommendations for finding a server. I opened some issues and PRs on fediverse.party to try consolidating a bit and pointing outwards to the other sites where possible, but it might be worth checking in with the maintainers of all those, at least _after_ a revamp of [`activitypub.rocks`](https://activitypub.rocks/).
 
 Johannes: re Bumblefudge's earlier comment, it'd be great to unify how AP is presented on the Fedi, but that's an enormous task, out of scope for now.
 
