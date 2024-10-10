@@ -56,12 +56,12 @@ https://meet.jit.si/social-web-cg
      sponsoring Darius's work on the Social Media Schema Observatory.
    * [IndieWeb Berlin!](https://indieweb.org/2024/Berlin) has organized and
      opened up tickets for the event. Tickets are complimentary, two day barcamp
-     stype unconference and hackathon for all things independent and social web.
+     type unconference and hackathon for all things independent and social web.
      Excited to be in Germany which is a hotbed of social web activity, will be
      hosted at Mozilla Berlin.
    * Social Web Foundation: Evan is now working with SWF with the goal of
      improving the network and also the user experience. Not yet a W3C member
-     but will be soon, for now Evan is participating as individual.
+     but will be soon; for now, Evan is participating as individual.
 3. Social Web CG Charter discussion
     * Group has had great momentum in the last year but we need to make sure we have a charter
     * https://github.com/swicg/potential-charters/pull/1
@@ -101,7 +101,7 @@ https://meet.jit.si/social-web-cg
         Solid election went, there was a perception that Inrupt carried lots of
         weight and won a lot of board seats. Virginia ran as an independent
         without Inrupt supporting her so it's important to note that while she
-        is Inrupt affiliated, she did not represent inrupt. We need to be clear
+        was Inrupt affiliated, she did not represent Inrupt. We need to be clear
         whether a person represents an org, or whether they are independent
         regardless of org affiliation, _and hold them accountable to that_.
       * Tantek: corporate capture is a concern, and in our community we are
@@ -117,7 +117,7 @@ https://meet.jit.si/social-web-cg
       * Laurens: the presence of guardrails would support the legitimacy of the
         CG
     * Tantek: regarding choosing editors, we have so much work to do that
-      whoever steps up to do the work ends up driving it, do-ocracy style
+      whomever steps up to do the work ends up driving it, do-ocracy style
       * Emelia: counterpoint to Tantek's "those that can do, do", these tend to
         bias toward those who have the social and economic power to do so. BIPOC
         may not have the funding and availability to work on this stuff.
