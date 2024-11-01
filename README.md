@@ -27,7 +27,7 @@ If you would like to upload a recording of a CG meeting in addition to minutes, 
 |[2023-09-22](2023-09-22/README.md)|General Meeting|
 |[2023-09-12](2023-09-12/README.md)|General Meeting|
 |[2023-08-11](2023-08-11/README.md)|General Meeting|
-|[2023-08-04](2023-08-04-csam-special-topic/README.md)|Special Topic: CSAM|
+|[2023-08-04](2023-08-04-csam-spec-topic/README.md)|Special Topic: CSAM|
 |[2023-07-22](2023-07-22/README.md)|General Meeting|
 |[2023-05-19](2023-05-19/README.md)|General Meeting|
 |[2023-03-29](2023-03-29/README.md)|General Meeting|
