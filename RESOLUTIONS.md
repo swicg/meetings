@@ -2,6 +2,10 @@
 
 | Date + Link | Contents |
 |---|---|
+|[2024-11-08](./2024-10-04/README.md#location-task-force-proposal)|RESOLVED: Proposal to form a Geosocial Task Force. (Next steps: Mailing list post about its formation etc).|
+|[see above](./2024-10-04/README.md)|RESOLVED: Aim to adopt the SocialCG Charter on the December call. [(not in the minutes:) Next steps: work async until dec on the [potential-charters repo](https://github.com/swicg/potential-charters/pulls)]|
+|[see above](./2024-10-04/README.md)|RESOLVED: Evan and Tantek as HTML Discovery TF co-chairs. [(not in the minutes:) next steps: follow up on [current Discovery draft on-list](https://lists.w3.org/Archives/Public/public-swicg/2024Nov/0041.html)) ]|
+|[see above](./2024-10-04/README.md)|RESOLVED: Start Group TF with a and Evan as co-leads [next steps?]|
 |[2024-10-04](./2024-10-04/README.md)|accept [PR #1](https://github.com/swicg/potential-charters/pull/1) as the basis for collaboration on building a CG charter|
 |see above|Accept [PR#4](https://github.com/swicg/potential-charters/pull/4) to begin the collaboration on a staging process for CG/WG workflows (conditional on Tantek and Emelia's change requests).|
 |[2024-09-06](./2024-09-06/README.md)|host Social Web Interoperability & Data Portability TPAC session|
