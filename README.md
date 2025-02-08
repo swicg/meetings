@@ -10,6 +10,7 @@ If you would like to upload a recording of a CG meeting in addition to minutes, 
 
 |Date|Topic|
 |---|---|
+|[2025-02-07](2025-02-07/README.md)|General Meeting|
 |[2025-01-03](2025-01-03/README.md)|General Meeting|
 |[2024-12-06](2024-12-06/README.md)|General Meeting|
 |[2024-11-21](https://lists.w3.org/Archives/Public/public-swicg/2024Nov/0059.html)|Testing TF|
