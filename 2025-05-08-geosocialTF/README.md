@@ -34,10 +34,12 @@ Evan: Activity Pub objects are supposed to have a live JSON-LD URI with addition
 Example Rodgers center - https://places.pub/way/364535169
 
 Multityped AS2 Object
- - Place
- - geojson:Feature
+
+* Place
+* geojson:Feature
 
 Discussion on places.pub
+
 * Lat/Long have no meaning without reference to a Coordinate Reference System. You need a "`crs:`" property to specify CRS which shouild default to `"WGS-84"` or `"EPSG:4326"`.
   * This sounds like a good addition.  New issue added to places.pub repo
   * IAU values on https://spatialreference.org/ support non-terrestrial values within our solar system — e.g., on Mars, or Moon — but not in orbit or between bodies.
@@ -59,11 +61,13 @@ Discussion on places.pub
 * Check-in as an "Arrive" activity with a places.pub uri as JSON-LD
 
 Ideal - ActivityPub API
- - Geosocial apps will use the _ActivityPub API_
+
+* Geosocial apps will use the _ActivityPub API_
 
 Practical - Mastodon API 
- - Uncertain how an Arrive activity might exist in the Mastodon ecosystem.
- - Adding a _location_ attribute is supported today and partially implemented as an author on some services like Pixelfed ( well known cities only )
+
+* Uncertain how an Arrive activity might exist in the Mastodon ecosystem.
+* Adding a _location_ attribute is supported today and partially implemented as an author on some services like Pixelfed ( well known cities only )
 
 ## Explainer updates
 
@@ -78,7 +82,7 @@ Explainer Todos
   * It is possible to register a few semantic @ids that are flexible to handle "ephemeral" locations
   * Like "as:Public" in the _to_ or _cc_ fields of an AS2 activity
 
-```
+```json
     "to": [
         "https://example.com/user1/followers",
         "as:Public"
@@ -86,6 +90,7 @@ Explainer Todos
 ```
 
 ## Followup notes
+
 * Evan: Considering software architecture for check-in app driven by fediverse clients
 * Mike: Publish explainer work so far to https://github.com/swicg/geosocial
 * Mike: Publish call notes to https://github.com/swicg/meetings
