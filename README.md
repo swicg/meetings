@@ -10,6 +10,7 @@ If you would like to upload a recording of a CG meeting in addition to minutes, 
 
 |Date|Topic|
 |---|---|
+|[2025-05-08-geosocialTF](2025-05-08-geosocialTF/README.md)|Geosocial TF|
 |[2025-05-02](2025-05-02/README.md)|General Meeting|
 |[2025-04-04](2025-04-04/README.md)|General Meeting|
 |[2025-03-07](2025-03-07/README.md)|General Meeting|
