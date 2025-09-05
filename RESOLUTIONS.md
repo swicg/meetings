@@ -2,6 +2,11 @@
 
 | Date + Link | Contents |
 |---|---|
+|[2025-05-02](./2025-05-02/README.md)|RESOLVED: Proposal: Vote to ratify the Staging Process document on the June monthly call. (So, begin the review / call-for-consensus process now).|
+|[2025-04-04](./2025-04-04/README.md)|RESOLVED: SWICG makes a recommendation for a Social Web Working Group 1.1 charter, with the following characteristics: AP 1.1 / AS 2.1 / AS Vocab 1.1 errata front and center in the deliverables section ; List the non-AP/AS specs in the Potential Deliverables section. Specifically: WebSub, Micropub, Linked Data Notifications, Webmention ; Mention the Incubation staging process, and that if other documents go through the requisite incubation stages, and if there's time in the WG charter, they would be considered by the WG as well.|
+|[2025-02-07](./2025-02-07/README.md)|RESOLVED: Adopt the Proposed CG Charter (at 
+https://swicg.github.io/potential-charters/CGCharter-1727386911.html
+ ) as this group's charter, with the understanding that PRs and conversation on it can continue.|
 |[2024-11-08](./2024-10-04/README.md#location-task-force-proposal)|RESOLVED: Proposal to form a Geosocial Task Force. (Next steps: Mailing list post about its formation etc).|
 |[see above](./2024-10-04/README.md)|RESOLVED: Aim to adopt the SocialCG Charter on the December call. [(not in the minutes:) Next steps: work async until dec on the [potential-charters repo](https://github.com/swicg/potential-charters/pulls)]|
 |[see above](./2024-10-04/README.md)|RESOLVED: Evan and Tantek as HTML Discovery TF co-chairs. [(not in the minutes:) next steps: follow up on [current Discovery draft on-list](https://lists.w3.org/Archives/Public/public-swicg/2024Nov/0041.html)) ]|
