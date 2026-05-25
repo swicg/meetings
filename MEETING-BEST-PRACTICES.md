@@ -9,17 +9,20 @@
 * The task force chair sets up an online meeting space for that time. Many SWICG people prefer https://meet.jit.si.
   There isn't really a room to reuse, so pick a room that works for the event.
 
+* The task force chair creates an issue in the Github repo of the task force with the draft agenda
+  for the meeting. (Example: https://github.com/swicg/activitypub-e2ee/issues/82)
+
 * The task force chair notifies one of the SWICG chairs that the meeting will take place with
 
   * Date, time, timezone, expected duration
   * Location (e.g. Jitsi URL)
   * Meeting title (e.g. "Meeting of the xyz Task Force")
-  * An agenda. This can be very basic (like a sentence or two) but should be enough to tell potential attendees
-    why they might want to come.
+  * Link to the Github issue that contains the agenda.
 
 * The SWICG chair puts the meeting on the W3C calendar.
 
-* The task force chair sends the same info to the SWICG mailing list.
+* The task force chair sends the same info to the SWICG mailing list. Invite people to comment on the Github
+  issue with the agenda if they have additions/suggestions.
 
 #### During the meeting
 
