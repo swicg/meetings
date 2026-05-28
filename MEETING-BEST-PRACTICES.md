@@ -17,7 +17,9 @@
   * Date, time, timezone, expected duration
   * Location (e.g. Jitsi URL)
   * Meeting title (e.g. "Meeting of the xyz Task Force")
-  * Link to the Github issue that contains the agenda.
+  * Link to the Github issue tracker that contains the agenda (for repeat meetings, it might be easier to link to
+    just the issue list and let people find the right issue for the next meeting themselves. Whatever works
+    for the particular task force.))
 
 * The SWICG chair puts the meeting on the W3C calendar.
 
