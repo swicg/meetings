@@ -34,6 +34,7 @@
   * https://pad.w3.org -- hosted by the W3C, requires W3C login
   * HedgeDoc
   * CryptPad
+  * https://notes.socialcg.org/ -- run by Emelia, request an account if you like
 
 * The task force lead shares that document in the meeting chat and identifies one or more people who will help with
   taking notes.
