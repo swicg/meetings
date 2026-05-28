@@ -39,6 +39,11 @@
   * CryptPad
   * https://notes.socialcg.org/ -- run by Emelia, request an account if you like
 
+  Note: for all these note-tacking tools, tracking the URLs (which contain UUIDs) is essential to prevent loss
+  of the notes between meetings; best practice is for task force lead to "own" the minutes docs for each meeting
+  and circulate them (e.g. in the agendas) so that other participants can contribute even if the lead misses a
+  meeting, and so that the URLs can be recovered in a central place, i.e. a central account on these services.
+
 * The task force lead shares that document in the meeting chat and identifies one or more people who will help with
   taking notes.
 
