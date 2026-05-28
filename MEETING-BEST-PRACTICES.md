@@ -49,6 +49,9 @@
 * The task force lead turns the meeting notes into a pull request for the SWICG meeting repo at:
   https://github.com/swicg/meetings
 
-* A SWICG chair approves the pull request.
+* OR, the task force lead turns the meeting notes into a pull request for their own repository.
 
+* Use the `meetings/YYYY-MM-DD-taskforce-meeting.md` naming scheme.
+
+* A SWICG chair approves the pull request.
 
