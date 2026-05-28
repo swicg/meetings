@@ -39,6 +39,9 @@
 * The task force lead shares that document in the meeting chat and identifies one or more people who will help with
   taking notes.
 
+* Alternatively, or in addition, the meeting can be recorded. The recording and/or automated transcript
+  of the recording is then published.
+
 * The task force lead reminds attendees of the W3C Code of Conduct, and W3C IP policy.
 
 #### After the meeting
