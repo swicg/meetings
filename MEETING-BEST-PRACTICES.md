@@ -35,6 +35,7 @@
 
   * https://pad.w3.org -- hosted by the W3C, requires W3C login
   * HedgeDoc
+  * HackMD
   * CryptPad
   * https://notes.socialcg.org/ -- run by Emelia, request an account if you like
 
