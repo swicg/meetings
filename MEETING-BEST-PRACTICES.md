@@ -26,6 +26,8 @@
 * The task force lead sends the same info to the SWICG mailing list. Invite people to comment on the Github
   issue with the agenda if they have additions/suggestions.
 
+* Consider publishing the meeting more broadly on the social web to attract attendees if that would be helpful.
+
 #### During the meeting
 
 * The task force lead makes sure an online document has been set up for note taking. The document should be
