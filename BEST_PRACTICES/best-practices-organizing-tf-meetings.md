@@ -1,8 +1,9 @@
-## Best practices for SWICG-related meetings
+## Best practices for organizing SWICG task force meetings
 
-### Task forces
+Note: there are other best practices, such as how chairs should conduct the meetings. This document only
+focuses on the organizational aspects. We can create more documents covering other aspects.
 
-#### Before the meeting
+### Before the meeting
 
 * The task force lead picks a meeting time.
 
@@ -28,7 +29,7 @@
 
 * Consider publishing the meeting more broadly on the social web to attract attendees if that would be helpful.
 
-#### During the meeting
+### During the meeting
 
 * The task force lead makes sure an online document has been set up for note taking. The document should be
   editable by multiple people. Some services that have been used:
@@ -52,7 +53,7 @@
 
 * The task force lead reminds attendees of the W3C Code of Conduct, and W3C IP policy.
 
-#### After the meeting
+### After the meeting
 
 * The task force lead turns the meeting notes into a pull request for the SWICG meeting repo at:
   https://github.com/swicg/meetings
