@@ -54,7 +54,7 @@ To recommend additions or changes to the agenda, please comment below.
 
 ### Scope of work
 
-- Evan: For me, scope of this TF is "Facebook groups on the fediverse", is the constraint only on membership management?
+- Evan: For me, scope of this TF is "Facebook-like groups on the fediverse", is the constraint only on membership management?
 - a: No, group members can obviously "do stuff", it's just a question of what "to do"
 
 ### Proposal to adopt draft as first draft
