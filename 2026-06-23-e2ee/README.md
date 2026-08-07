@@ -76,7 +76,9 @@ Bonfire / Emissay interop: To wrap or not to wrap (MLS and AP). Implicit create 
 [Issue ?? - KeyPackage trust model and emoji verif system]()
 - Mayel: "mark as verified" (//Signal?), or flag in client if KeyPackage replaced or updated by a server?
 - Evan: A good example: Servers might try to insert keys to "keep a copy" or join a convo, or rotate a user's key; want to persist trust (keep accíng msgs from) "emoji-verified" users until/unless they rotate devices/keys;
-- Evan: is the signature persisted with the keypackage or lost? `client signature key` is inside the package, and persists across the rotations of the group's sharedkey; Ben: Yeah, can't new device sign over the keypackage and then it's visible to the group and verifiable, but also displayed as an event? Mayel: Yeah I think as long as there's a non-approved-by-old-device recovery i'm good
+- Evan: is the signature persisted with the keypackage or lost? `client signature key` is inside the package, and persists across the rotations of the group's sharedkey; 
+- Ben: Yeah, can't new device sign over the keypackage and then it's visible to the group and verifiable, but also displayed as an event? 
+- Mayel: Yeah I think as long as there's a non-approved-by-old-device recovery i'm good
 - TallTed: lots of good info in chat? 
 - BF: I've been getting most of it, i'll paste the raw chat into the bottom and double-check that i didn't miss anything too pertinent later, but i gotta run now!
 
