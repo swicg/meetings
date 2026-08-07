@@ -53,7 +53,8 @@ Bonfire / Emissay interop: To wrap or not to wrap (MLS and AP). Implicit create 
 - MK (in chat): Buffering requirements should depend on epoch and commit status, or whatever you can get out of ts-mls. Everyone gets the same information as Evan is describing so every client should be able to recreate the same convo thread.
 * MK: there might be good reasons to use Group on the AP layer, or not, but AS LONG AS the native MLS ordering is used, you leave open the maximum interop options
 - Sidebar: MK: Metadata leakage - i think routing info is kind of an inherent thing of MLS? not sure we can do too much to minimize it - [Issue #83: Limiting group membership metadata exposure](https://github.com/swicg/activitypub-e2ee/issues/83)
-+ Emelia: but leaking user metadata is worse than just leaking server-to-server comms... MK: sure
+- Emelia: but leaking user metadata is worse than just leaking server-to-server comms... 
+- MK: sure
 + (close sidebar, back to issue 58)
 - Evan: Consensus to use Context? <no objections>
 
