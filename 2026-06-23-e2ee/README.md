@@ -69,7 +69,8 @@ Bonfire / Emissay interop: To wrap or not to wrap (MLS and AP). Implicit create 
 + emelia: IIRC the sequence is public/outside the envelope for this reason, for the delivery server to accept them in order
 + ben: wait, in my impl, i think i'm committing to the local dB before getting authoritative ACK from the delivery... i could maybe solve this by handling it as unconfirmed until ACK
 * Em: think of this more like AP C2S than APS2S: until you hear back from the server, you don't have a canonical `id` for the activity/msg commit id/etc
-+ mayel: is this downstream of #56? evan: i think so
+- mayel: is this downstream of #56? 
+- evan: i think so
 + evan: if everyone defers to the host's OrderedCollection, the host's acknowledgement of a leave message could be
 - sidebar/factcheck: if i get 5 commits, and only 1 gets in, do i just ignore the other 4? 
 - ben: I think so; 
