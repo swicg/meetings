@@ -13,7 +13,4 @@ See repository listing above. There is one directory per meeting, named either:
 
 Older meetings can be found [here](https://www.w3.org/wiki/SocialCG#Meetings)
 
-## Resolutions
-
-See [RESOLUTIONS.md](./RESOLUTIONS.md).
 
