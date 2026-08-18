@@ -12,3 +12,12 @@ See repository listing above. There is one directory per meeting, named either:
 * `YYYY-MM-DD-NAME`, which contains the minutes of a meeting of a Task Force chartered by the Community Group, or with another group.
 
 Older meetings can be found [here](https://www.w3.org/wiki/SocialCG#Meetings)
+
+## Task Forces
+
+[Current taskforces and status](TASKFORCES.md)
+
+## Best practices
+
+* [Organizing a Task Force meeting](BEST_PRACTICES/best-practices/organizing-tf-meetings.md)
+* [Notes template](BEST_PRACTICES/notes-template.md)
