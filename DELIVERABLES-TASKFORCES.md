@@ -5,7 +5,7 @@
 | [Discovery](https://github.com/swicg/activitypub-html-discovery) | Discovery of ActivityPub from HTML |  | @evanp | [ActivityPub Discovery](https://swicg.github.io/activitypub-html-discovery/) (draft) |
 | [E2EE](https://github.com/swicg/activitypub-e2ee) | End-to-end encryption over ActivityPub |  | @evanp  | [MLS over ActivityPub](https://swicg.github.io/activitypub-e2ee/mls) (draft) |
 | [Remix](https://github.com/swicg/activitypub-remix) | Remixing and aggregation of ActivityPub actors |  | @bobwyman, @evanp  | |
-| [Trust and Safety](https://github.com/swicg/activitypub-trust-and-safety) | Improving the trust, safety, and integrity of ActivityPub and related specifications | 2024-09-06 | @thisismissem, @dariusk | [Initial report](https://swicg.github.io/activitypub-trust-and-safety/initial-report/) |
+| [Trust and Safety](https://github.com/swicg/activitypub-trust-and-safety) | Improving the trust, safety, and integrity of ActivityPub and related specifications | 2024-09-06 | @thisismissem, @dariusk | [Initial report](https://swicg.github.io/activitypub-trust-and-safety/) |
 | [Geosocial](https://github.com/swicg/geosocial) | Including physical or logical location with social data | | @here, @jeremiahlee | |
 | [Groups](https://github.com/swicg/groups) |  |  | @trwnh, @evanp | |
 | [Forums](https://github.com/swicg/forums) | Collaborative effort of threaded/forum implementations (aka Threadiverse) to improve federated activities at the context level. |  | @julianlam | FEP, eventual SocialCG report for newcomers |
