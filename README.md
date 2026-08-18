@@ -13,11 +13,11 @@ See repository listing above. There is one directory per meeting, named either:
 
 Older meetings can be found [here](https://www.w3.org/wiki/SocialCG#Meetings)
 
-## Task Forces
+## Current work
 
-[Current taskforces and status](TASKFORCES.md)
+* [Current deliverables and taskforces](DELIVERABLES-TASKFORCES.md)
 
 ## Best practices
 
-* [Organizing a Task Force meeting](BEST_PRACTICES/best-practices/organizing-tf-meetings.md)
+* [Organizing a Task Force meeting](BEST_PRACTICES/organizing-tf-meetings.md)
 * [Notes template](BEST_PRACTICES/notes-template.md)
