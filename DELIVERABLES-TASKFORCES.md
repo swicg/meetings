@@ -9,7 +9,7 @@
 | [Forums](https://github.com/swicg/forums) | Collaborative effort of threaded/forum implementations (aka Threadiverse) to improve federated activities at the context level. |  | @julianlam | FEP, eventual SocialCG report for newcomers |
 | [Geosocial](https://github.com/swicg/geosocial) | Including physical or logical location with social data | | @here, @jeremiahlee | [2024-11-08](2024-11-08/README.md)|
 | [Groups](https://github.com/swicg/groups) |  | [2024-11-08](2024-11-08/README.md) | @trwnh, @evanp | |
-| [Handles](https://github.com/swicg/activitypub-handles) | Specifying handles as a technical concept for ActivityPub: including resolution mechanisms, internationalization, and bidirectional verification of handles to actors | [2026-08-07](/w3c/socialwg/meetings/2026/2026-08-07-CG-WG-joint.md) | @quillmatiq, @ThisIsMissEm | |
+| [Handles](https://github.com/swicg/activitypub-handles) | Specifying handles as a technical concept for ActivityPub: including resolution mechanisms, internationalization, and bidirectional verification of handles to actors | [2026-08-07](https://github.com/w3c/socialwg/meetings/2026/2026-08-07-CG-WG-joint.md) | @quillmatiq, @ThisIsMissEm | |
 | [Remix](https://github.com/swicg/activitypub-remix) | Remixing and aggregation of ActivityPub actors |  | @bobwyman, @evanp  | |
 | [Trust and Safety](https://github.com/swicg/activitypub-trust-and-safety) | Improving the trust, safety, and integrity of ActivityPub and related specifications | 2024-09-06 | @thisismissem, @dariusk | [Initial report](https://swicg.github.io/activitypub-trust-and-safety/) |
 | Website | Update and maintain all public SWICG-related websites and accounts | [2024-09-06](2024-09-06/README.md) | @jernst | ongoing work |
