@@ -2,13 +2,13 @@
 
 | Name | Description | Created | Lead(s) | Deliverables |
 | ---- | ----------- | ------- | ------- | ------------ |
-| [ActivityPub API](https://github.com/swicg/activitypub-api) | APIs for more efficient fetching from outbox & inbox, media uploads, partial updates, and an OAuth 2.x profile for interacting with the API | | @ThisIsMissEm, @evanp |  |
+| [ActivityPub API](https://github.com/swicg/activitypub-api) | APIs for more efficient fetching from outbox & inbox, media uploads, partial updates, and an OAuth 2.x profile for interacting with the API | [2025-09-05](2025-09-05/README.md) | @ThisIsMissEm, @evanp |  |
 | [Data Portability](https://github.com/swicg/activitypub-data-portability) |  |  | @lisadusseault | [LOLA](https://swicg.github.io/activitypub-data-portability/) |
-| [Discovery](https://github.com/swicg/activitypub-html-discovery) | Discovery of ActivityPub from HTML |  | @evanp | [ActivityPub Discovery](https://swicg.github.io/activitypub-html-discovery/) (draft) |
+| [HTML Discovery](https://github.com/swicg/activitypub-html-discovery) | Discovery of ActivityPub from HTML | [2024-11-08](2024-11-08/README.md) | @evanp | [ActivityPub Discovery](https://swicg.github.io/activitypub-html-discovery/) (draft) |
 | [E2EE](https://github.com/swicg/activitypub-e2ee) | End-to-end encryption over ActivityPub |  | @evanp  | [MLS over ActivityPub](https://swicg.github.io/activitypub-e2ee/mls) (draft) |
 | [Forums](https://github.com/swicg/forums) | Collaborative effort of threaded/forum implementations (aka Threadiverse) to improve federated activities at the context level. |  | @julianlam | FEP, eventual SocialCG report for newcomers |
-| [Geosocial](https://github.com/swicg/geosocial) | Including physical or logical location with social data | | @here, @jeremiahlee | |
-| [Groups](https://github.com/swicg/groups) |  |  | @trwnh, @evanp | |
+| [Geosocial](https://github.com/swicg/geosocial) | Including physical or logical location with social data | | @here, @jeremiahlee | [2024-11-08](2024-11-08/README.md)|
+| [Groups](https://github.com/swicg/groups) |  | [2024-11-08](2024-11-08/README.md) | @trwnh, @evanp | |
 | [Handles](https://github.com/swicg/activitypub-handles) | Specifying handles as a technical concept for ActivityPub: including resolution mechanisms, internationalization, and bidirectional verification of handles to actors | 2026-08-07 | @quillmatiq, @ThisIsMissEm | |
 | [Remix](https://github.com/swicg/activitypub-remix) | Remixing and aggregation of ActivityPub actors |  | @bobwyman, @evanp  | |
 | [Trust and Safety](https://github.com/swicg/activitypub-trust-and-safety) | Improving the trust, safety, and integrity of ActivityPub and related specifications | 2024-09-06 | @thisismissem, @dariusk | [Initial report](https://swicg.github.io/activitypub-trust-and-safety/) |
