@@ -2,7 +2,7 @@
 
 | Name | Description | Created | Lead(s) | Deliverables |
 | ---- | ----------- | ------- | ------- | ------------ |
-| [ActivityPub API](https://github.com/swicg/activitypub-api) | APIs for more efficient fetching from outbox & inbox, media uploads, partial updates, and an OAuth 2.x profile for interacting with the API | [2025-09-05](2025-09-05/README.md) | @ThisIsMissEm, @evanp |  |
+| [ActivityPub API](https://github.com/swicg/activitypub-api) | APIs for more efficient fetching from outbox & inbox, media uploads, partial updates, and an OAuth 2.x profile for interacting with the API | [2025-09-05](2025-09-05/README.md) | @evanp |  |
 | [Data Portability](https://github.com/swicg/activitypub-data-portability) |  |  | @lisadusseault | [LOLA](https://swicg.github.io/activitypub-data-portability/) |
 | [HTML Discovery](https://github.com/swicg/activitypub-html-discovery) | Discovery of ActivityPub from HTML | [2024-11-08](2024-11-08/README.md) | @evanp | [ActivityPub Discovery](https://swicg.github.io/activitypub-html-discovery/) (draft) |
 | [E2EE](https://github.com/swicg/activitypub-e2ee) | End-to-end encryption over ActivityPub |  | @evanp  | [MLS over ActivityPub](https://swicg.github.io/activitypub-e2ee/mls) (draft) |
