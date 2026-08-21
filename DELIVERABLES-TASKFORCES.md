@@ -7,7 +7,7 @@
 | [HTML Discovery](https://github.com/swicg/activitypub-html-discovery) | Discovery of ActivityPub from HTML | [2024-11-08](2024-11-08/README.md) | @evanp | [ActivityPub Discovery](https://swicg.github.io/activitypub-html-discovery/) (draft) |
 | [E2EE](https://github.com/swicg/activitypub-e2ee) | End-to-end encryption over ActivityPub |  | @evanp  | [MLS over ActivityPub](https://swicg.github.io/activitypub-e2ee/mls) (draft) |
 | [Forums](https://github.com/swicg/forums) | Collaborative effort of threaded/forum implementations (aka Threadiverse) to improve federated activities at the context level. |  | @julianlam | FEP, eventual SocialCG report for newcomers |
-| [Geosocial](https://github.com/swicg/geosocial) | Including physical or logical location with social data | | @here, @jeremiahlee | [2024-11-08](2024-11-08/README.md)|
+| [Geosocial](https://github.com/swicg/geosocial) | Including physical or logical location with social data | [2024-11-08](2024-11-08/README.md) | @here, @jeremiahlee | |
 | [Groups](https://github.com/swicg/groups) |  | [2024-11-08](2024-11-08/README.md) | @trwnh, @evanp | |
 | [Handles](https://github.com/swicg/activitypub-handles) | Specifying handles as a technical concept for ActivityPub: including resolution mechanisms, internationalization, and bidirectional verification of handles to actors | [2026-08-07](https://github.com/w3c/socialwg/meetings/2026/2026-08-07-CG-WG-joint.md) | @quillmatiq, @ThisIsMissEm | |
 | [Remix](https://github.com/swicg/activitypub-remix) | Remixing and aggregation of ActivityPub actors |  | @bobwyman, @evanp  | |
