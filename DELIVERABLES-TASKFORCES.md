@@ -10,6 +10,7 @@
 | [Geosocial](https://github.com/swicg/geosocial) | Including physical or logical location with social data | [2024-11-08](2024-11-08/README.md) | @here, @jeremiahlee | |
 | [Groups](https://github.com/swicg/groups) |  | [2024-11-08](2024-11-08/README.md) | @trwnh, @evanp | |
 | [Handles](https://github.com/swicg/activitypub-handles) | Specifying handles as a technical concept for ActivityPub: including resolution mechanisms, internationalization, and bidirectional verification of handles to actors | [2026-08-07](https://github.com/w3c/socialwg/meetings/2026/2026-08-07-CG-WG-joint.md) | @quillmatiq, @ThisIsMissEm | |
+| [HTTP Signature](https://github.com/swicg/activitypub-http-signature) | HTTP Signature | @ryanb, @nightpool | | [ActivityPub and HTTP Signatures](https://swicg.github.io/activitypub-http-signature/) (to be published as FINAL)|
 | [Remix](https://github.com/swicg/activitypub-remix) | Remixing and aggregation of ActivityPub actors |  | @bobwyman, @evanp  | |
 | [Trust and Safety](https://github.com/swicg/activitypub-trust-and-safety) | Improving the trust, safety, and integrity of ActivityPub and related specifications | [2024-09-06](2024-09-06/README.md) | @thisismissem, @dariusk | [Initial report](https://swicg.github.io/activitypub-trust-and-safety/) |
 | Website | Update and maintain all public SWICG-related websites and accounts | [2024-09-06](2024-09-06/README.md) | @jernst | ongoing work |
@@ -24,6 +25,5 @@
 
 | Name | Description | Lead(s) | Status | Deliverables |
 | ---- | ----------- | ------- | ------ | ------------ |
-| [HTTP Signature](https://github.com/swicg/activitypub-http-signature) | HTTP Signature | @ryanb, @nightpool | Completed | [ActivityPub and HTTP Signatures](https://swicg.github.io/activitypub-http-signature/) |
 | [Test Suite](https://github.com/swicg/ap-test-suite-taskforce) | ... | @bumblefudge | Inactive | |
 | [Webfinger](https://github.com/swicg/activitypub-webfinger) | SocialCG report for using ActivityPub with Webfinger | @trwnh , @evanp | Completed | [ActivityPub and Webfinger](https://www.w3.org/community/reports/socialcg/CG-FINAL-apwf-20241021/)
