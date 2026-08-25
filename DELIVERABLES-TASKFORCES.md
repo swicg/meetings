@@ -27,4 +27,4 @@
 | Name | Description | Lead(s) | Status | Deliverables |
 | ---- | ----------- | ------- | ------ | ------------ |
 | [Test Suite](https://github.com/swicg/ap-test-suite-taskforce) | ... | @bumblefudge | Inactive | |
-| [Webfinger](https://github.com/swicg/activitypub-webfinger) | SocialCG report for using ActivityPub with Webfinger | @trwnh , @evanp | Completed | [ActivityPub and Webfinger](https://www.w3.org/community/reports/socialcg/CG-FINAL-apwf-20241021/) (FINAL, 2024)
+| [Webfinger](https://github.com/swicg/activitypub-webfinger) | SocialCG report for using ActivityPub with Webfinger | @trwnh , @evanp | Completed | [ActivityPub and Webfinger](https://www.w3.org/community/reports/socialcg/CG-FINAL-apwf-20240608/) (FINAL, 2024)
