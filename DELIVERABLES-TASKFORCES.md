@@ -10,7 +10,7 @@
 | [Geosocial](https://github.com/swicg/geosocial) | Including physical or logical location with social data | [2024-11-08](2024-11-08/README.md) | @here, @jeremiahlee | Two docs planned: 1) Personal places, maintain a list of places that are important to you. 2) Report on geosocial microsyntax.|
 | [Groups](https://github.com/swicg/groups) |  Participating in group contexts with specific members and other community affordances | [2024-11-08](2024-11-08/README.md) | @trwnh, @evanp | |
 | [Handles](https://github.com/swicg/activitypub-handles) | Specifying handles as a technical concept for ActivityPub: including resolution mechanisms, internationalization, and bidirectional verification of handles to actors | [2026-08-07](https://github.com/w3c/socialwg/meetings/2026/2026-08-07-CG-WG-joint.md) | @quillmatiq | New TF |
-| [HTTP Signature](https://github.com/swicg/activitypub-http-signature) | HTTP Signature | @ryanb, @nightpool | | [ActivityPub and HTTP Signatures](https://swicg.github.io/activitypub-http-signature/) (to be published as FINAL)|
+| [HTTP Signature](https://github.com/swicg/activitypub-http-signature) | HTTP Signature | | @ryanb, @nightpool | [ActivityPub and HTTP Signatures](https://www.w3.org/community/reports/socialcg/CG-FINAL-apsig-20240607/) (FINAL, 2024); 2026 revision (PLANNED)|
 | [Remix](https://github.com/swicg/activitypub-remix) | Remixing and aggregation of ActivityPub actors |  | @bobwyman, @evanp  | Two docs planned: 1) Explainer and 2) Report |
 | [Trust and Safety](https://github.com/swicg/activitypub-trust-and-safety) | Improving the trust, safety, and integrity of ActivityPub and related specifications | [2024-09-06](2024-09-06/README.md) | (under discussion) | [ActivityPub Trust and Safety](https://swicg.github.io/activitypub-trust-and-safety/) (living document), [Activities related to Trust and Safety](https://swicg.github.io/activitypub-trust-and-safety/activities/) (DRAFT), [Handling Sensitive Content](https://swicg.github.io/activitypub-trust-and-safety/sensitive/) (DRAFT), [Reporting problematic content](https://swicg.github.io/activitypub-trust-and-safety/reports/) (DRAFT), [Addressing considerations for activities and audiences](https://swicg.github.io/activitypub-trust-and-safety/addressing/) (DRAFT), [Discovering moderators for a social object](https://swicg.github.io/activitypub-trust-and-safety/moderators/) (DRAFT) |
 | Website | Update and maintain all public SWICG-related websites and accounts | [2024-09-06](2024-09-06/README.md) | @jernst | ongoing work |
@@ -20,10 +20,11 @@
 | Deliverable | Created | Lead |
 | ----------- | ------- | ---- |
 | [Process for Including Extensions in Activity Streams 2.0](https://swicg.github.io/extensions-policy/) (DRAFT, ready for FINAL) | | @evanp |
+| [ActivityPub Miscellaneous Terms](https://swicg.github.io/miscellany/) (DRAFT, ready for FINAL) | | @evanp |
 
 ## Inactive or previous Task Forces (list may be incomplete)
 
 | Name | Description | Lead(s) | Status | Deliverables |
 | ---- | ----------- | ------- | ------ | ------------ |
 | [Test Suite](https://github.com/swicg/ap-test-suite-taskforce) | ... | @bumblefudge | Inactive | |
-| [Webfinger](https://github.com/swicg/activitypub-webfinger) | SocialCG report for using ActivityPub with Webfinger | @trwnh , @evanp | Completed | [ActivityPub and Webfinger](https://www.w3.org/community/reports/socialcg/CG-FINAL-apwf-20241021/)
+| [Webfinger](https://github.com/swicg/activitypub-webfinger) | SocialCG report for using ActivityPub with Webfinger | @trwnh , @evanp | Completed | [ActivityPub and Webfinger](https://www.w3.org/community/reports/socialcg/CG-FINAL-apwf-20241021/) (FINAL, 2024)
