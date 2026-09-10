@@ -63,7 +63,7 @@ Add comments below to modify or add to the agenda.
 
 - EP: a submitted an omnibus PR, with a lot of editorial changes, that we haven't worked through
 - I haven't reviewed to the point of feeling comfortable that these are not draft-blocker changes
-- I don't want to go to draft over his objections
+- I don't want to go to draft over their objections
 - TODO: go through a's PR and make an issue for each (?) commit
 
 - EP: add a draft-blocker label to issues
