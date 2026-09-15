@@ -61,7 +61,7 @@ previously:
 - matthias: agreed on adding lang for non-HTTP ids to AP 1.1, and also how to gracefully fail/fallback
   also, alsoKnownAs is used widely now, eg by Mastodon for account migration. is that a problem?
 - ryan: they could coexist!
-- bf: originally thought alsoKnownAs was only for actors, with narrower semantics, but no, it can be broader. across documents, protocols, etc. just needs to have identity
+- bf: i think so!  i would also note that on a previous call, I said I thought alsoKnownAs was only for actors, with narrower semantics, but no, Dmitri pointed me to outside JSON-LD examples outside of DID-land where it can be broader. across documents, protocols, etc. anything that can have an identity shared across different versions/URLs, you can use alsoKnownAs.
 - did:dns? for domain handles
 - ryan: alsoKnownAs vs proxy links?
 - a: alsoKnownAs is identity, proxy links are url
