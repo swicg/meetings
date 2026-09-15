@@ -19,7 +19,7 @@ previously:
 
  - bumblefudge gives presentation: https://learningproof.xyz/assets/static/New%20Identifiers%20for%20new%20Webs.pdf
    - Use cases for AP: content addressing for attachments, activities, and Actors are different problems even though they might look similar at first blush
-   - the rubric I'm proposing we use to assess identifier schemes for use cases is how locatable the URN is; and the trust equivalent. if you are dereferencing an AT uri, who do you have to trust to dereference it on one protocol or another. Which servers have to be live, who do you have to trust to know you have the right keys/data.
+   - the rubric I'm proposing we use to assess identifier schemes for use cases is how locatable the URN is; and the trust equivalent. if you are dereferencing an URI, e.g. an at:// uri, who do you have to trust to dereference it on one protocol or another. Which servers have to be live, who do you have to trust to know you have the right keys/data.
 - Ryan: are we discussing use cases in this call?
 - bumblefudge: yes
 - Ryan: in general this makes sense. A lot of the framing we've seen so far has focused on 2 possibilities: authority-based or content-addressed. Those are two big options, but there are others. I don't want us to slide into the idea that it's either/or and exclusive to these.
