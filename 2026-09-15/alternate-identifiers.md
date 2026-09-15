@@ -67,7 +67,7 @@ previously:
 - a: alsoKnownAs is identity, proxy links are url
 - evan: WG already decided that it's alsoKnownAs https://github.com/w3c/socialwg/blob/1f4d3f04965080d9467f3410698b3fee7947aaad/meetings/2026/2026-07-16-CG-WG-joint.md?plain=1#L154
 - a, darius: technically we just resolved to document it
-- bf: FEP-1042 did a JSON-LD native form of multiple links, with types, supported static AP
+- bf: FEP-1042 did a very JSON-LD-native form of juggling multiple links, with content type link decorations, to support content-negotiation from static publication pipelines. I think that is a very solid foundation for interop.
   goal is interop!
 - a: as:alsoKnownAs is also ambiguous between DID semantics (more of a rel=self, "the link target identifies the current context's subject") vs Mastodon semantics (more of a rel=me, "the link subject and target are controlled by the same entity")
   
