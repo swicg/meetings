@@ -12,7 +12,6 @@ needs correcting or updating.
 | [Forums](https://github.com/swicg/forums) | Collaborative effort of threaded/forum implementations (aka Threadiverse) to improve federated activities at the context level. |  | @julianlam | FEP, eventual SocialCG report for newcomers |
 | [Geosocial](https://github.com/swicg/geosocial) | Including physical or logical location with social data | [2024-11-08](2024-11-08/README.md) | @here, @jeremiahlee | Two docs planned: 1) Personal places, maintain a list of places that are important to you. 2) Report on geosocial microsyntax.|
 | [Groups](https://swicg.github.io/groups/) | Participating in group contexts with specific members and other community affordances | [2024-11-08](2024-11-08/README.md) | @trwnh, @evanp | [Groups in the ActivityPub Ecosystem](https://swicg.github.io/groups/) (in progress) |
-| [Handles](https://github.com/swicg/activitypub-handles) | Specifying handles as a technical concept for ActivityPub: including resolution mechanisms, internationalization, and bidirectional verification of handles to actors | [2026-08-07](https://github.com/w3c/socialwg/meetings/2026/2026-08-07-CG-WG-joint.md) | ? | New TF |
 | [HTTP Signature](https://github.com/swicg/activitypub-http-signature) | HTTP Signature | | @ryanb, @nightpool | [ActivityPub and HTTP Signatures](https://www.w3.org/community/reports/socialcg/CG-FINAL-apsig-20240607/) (FINAL report published, 2024); 2026 revision (PLANNED)|
 | [Remix](https://github.com/swicg/activitypub-remix) | Remixing and aggregation of ActivityPub actors |  | @bobwyman, @evanp  | Two docs planned: 1) Explainer and 2) Report |
 | [Trust and Safety](https://github.com/swicg/activitypub-trust-and-safety) | Improving the trust, safety, and integrity of ActivityPub and related specifications | [2024-09-06](2024-09-06/README.md) | Victor and Echo | [ActivityPub Trust and Safety](https://swicg.github.io/activitypub-trust-and-safety/) (living document), [Activities related to Trust and Safety](https://swicg.github.io/activitypub-trust-and-safety/activities/) (unpublished DRAFT), [Handling Sensitive Content](https://swicg.github.io/activitypub-trust-and-safety/sensitive/) (unpublished DRAFT), [Reporting problematic content](https://swicg.github.io/activitypub-trust-and-safety/reports/) (unpublished DRAFT), [Addressing considerations for activities and audiences](https://swicg.github.io/activitypub-trust-and-safety/addressing/) (unpublished DRAFT), [Discovering moderators for a social object](https://swicg.github.io/activitypub-trust-and-safety/moderators/) (unpublished DRAFT) |
@@ -24,6 +23,12 @@ needs correcting or updating.
 | ----------- | ------- | ---- |
 | [Process for Including Extensions in Activity Streams 2.0](https://swicg.github.io/extensions-policy/) (published DRAFT, ready for FINAL) | | @evanp |
 | [ActivityPub Miscellaneous Terms](https://www.w3.org/community/reports/socialcg/CG-FINAL-apmisc-20260828/) (Final DRAFT published) | | @evanp |
+
+## Task Forces waiting to get started
+
+| Name | Description | Created | Convener(s) |
+| ---- | ----------- | ------- | ----------- |
+| [Handles](https://github.com/swicg/activitypub-handles) | Specifying handles as a technical concept for ActivityPub: including resolution mechanisms, internationalization, and bidirectional verification of handles to actors | [2026-08-07](https://github.com/w3c/socialwg/meetings/2026/2026-08-07-CG-WG-joint.md) | <needs convener> |
 
 ## Inactive or previous Task Forces (list may be incomplete)
 
