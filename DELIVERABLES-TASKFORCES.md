@@ -28,7 +28,7 @@ needs correcting or updating.
 
 | Name | Description | Created | Convener(s) |
 | ---- | ----------- | ------- | ----------- |
-| [Handles](https://github.com/swicg/activitypub-handles) | Specifying handles as a technical concept for ActivityPub: including resolution mechanisms, internationalization, and bidirectional verification of handles to actors | [2026-08-07](https://github.com/w3c/socialwg/meetings/2026/2026-08-07-CG-WG-joint.md) | <needs convener> |
+| [Handles](https://github.com/swicg/activitypub-handles) | Specifying handles as a technical concept for ActivityPub: including resolution mechanisms, internationalization, and bidirectional verification of handles to actors | [2026-08-07](https://github.com/w3c/socialwg/meetings/2026/2026-08-07-CG-WG-joint.md) | (needs convener) |
 
 ## Inactive or previous Task Forces (list may be incomplete)
 
