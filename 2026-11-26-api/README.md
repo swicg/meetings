@@ -3,6 +3,7 @@
 ## Present
 
 - Evan Prodromou <acct:evanprodromou@socialwebfoundation.org>
+- bumblefudge
 
 ## Agenda
 
