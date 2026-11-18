@@ -1,4 +1,4 @@
-# ActivityPub API
+# ActivityPub API Task Force 18 Nov 2026
 
 ## Present
 
