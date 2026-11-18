@@ -8,8 +8,8 @@
 ## Agenda
 
 1. Administrative
-    a. [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/process/cla/)
-    b. [Positive Work Environment](https://www.w3.org/about/positive-work-environment/)
+    1. [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/process/cla/)
+    2. [Positive Work Environment](https://www.w3.org/about/positive-work-environment/)
 2. Introductions
 3. Implementation progress reports
 7. MediaUpload unofficial draft
